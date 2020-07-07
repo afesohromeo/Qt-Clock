@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sound/beep_alarm.mp3</file>
+        <file>sound/ring.wav</file>
+        <file>sound/ringe.mp3</file>
+        <file>images/add - Copy.png</file>
+        <file>images/add.png</file>
+        <file>images/alarm - Copy.png</file>
+        <file>images/alarm.png</file>
+        <file>images/alarn - Copy.png</file>
+        <file>images/alarn.png</file>
+        <file>images/allm - Copy.jpg</file>
+        <file>images/allm.jpg</file>
+        <file>images/allme.jpg</file>
+        <file>images/allme.png</file>
+        <file>images/clock.png</file>
+        <file>images/del.png</file>
+        <file>images/stop.png</file>
+        <file>images/timer.png</file>
+    </qresource>
+</RCC>
